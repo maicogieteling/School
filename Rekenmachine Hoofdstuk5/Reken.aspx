@@ -32,7 +32,7 @@
             <tr>
         <th><asp:Label ID="lblUitkomst" runat="server" Text="Uitkomst"></asp:Label></th>
             
-        <th><asp:TextBox ID="txtUitkomst" runat="server"></asp:TextBox></th>
+        <th><asp:TextBox ID="txtUitkomst" runat="server" ReadOnly="True"></asp:TextBox></th>
            </tr>
         </table>
         <p>
